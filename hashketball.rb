@@ -63,14 +63,70 @@ def game_hash
      :slam_dunks => ,
     }
   ]
-    }, 
+  }, 
    :away => 
    {
      :team_name => "name" ,
    :colors =>["team_colors"] ,
-   :players => []
-     }, 
-   
+   :players => 
+   [
+      {
+     :player_name => , 
+     :number => ,
+     :shoe => ,
+     :points => ,
+     :rebounds => ,
+     :assists => ,
+     :steals => ,
+     :blocks => ,
+     :slam_dunks => ,
+    }, 
+     {
+     :player_name => , 
+     :number => ,
+     :shoe => ,
+     :points => ,
+     :rebounds => ,
+     :assists => ,
+     :steals => ,
+     :blocks => ,
+     :slam_dunks => ,
+    }, 
+     {
+     :player_name => , 
+     :number => ,
+     :shoe => ,
+     :points => ,
+     :rebounds => ,
+     :assists => ,
+     :steals => ,
+     :blocks => ,
+     :slam_dunks => ,
+    }, 
+    {
+     :player_name => , 
+     :number => ,
+     :shoe => ,
+     :points => ,
+     :rebounds => ,
+     :assists => ,
+     :steals => ,
+     :blocks => ,
+     :slam_dunks => ,
+    }, 
+     {
+     :player_name => , 
+     :number => ,
+     :shoe => ,
+     :points => ,
+     :rebounds => ,
+     :assists => ,
+     :steals => ,
+     :blocks => ,
+     :slam_dunks => ,
+    }
+    ]
+    }
  }
  
  end
