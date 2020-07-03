@@ -8,6 +8,11 @@ def game_hash
    :players => []
      }, 
    :away => 
+   {
+     :team_name => "name" ,
+   :colors =>["team_colors"] ,
+   :players => []
+     }, 
    
  }
  
