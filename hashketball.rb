@@ -10,13 +10,12 @@ def game_hash
      :number => ,
      :shoe => ,
      :points => ,
-     => ,
-     => ,
-     => ,
-     => ,
-     => ,
-     
-   }]
+     :rebounds => ,
+     :assists => ,
+     :steals => ,
+     :blocks => ,
+     :slam_dunks => ,
+    }]
      }, 
    :away => 
    {
